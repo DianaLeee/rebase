@@ -1,9 +1,10 @@
 ## hello world
 
-<center>|  Left-Aligned |  Center Aligned | Right Aligned |
+|  Left-Aligned |  Center Aligned | Right Aligned |
 | :------------ | :-------------: | ------------: |
 | col 3 is      | some wordy text |         $1600 |
 | col 2 is      |     centered    |           $12 |
-| zebra stripes |     are neat    |            $1 |</center>
+| zebra stripes |     are neat    |            $1 |
+
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi error quod libero corporis, iste sit nulla similique enim dignissimos asperiores, illo numquam architecto maxime ab tenetur repellendus, dicta sed officia.
